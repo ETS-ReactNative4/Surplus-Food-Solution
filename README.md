@@ -12,6 +12,7 @@
 
 <p align="center">
     This repository consists of a <strong>React Native Marketplace Application</strong> built with <strong>Expo CLI</strong>.
+    [Watch demo video here.](https://youtu.be/k2LHy2Cqon4)
 </p>
 
 ## Running the Application
